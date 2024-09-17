@@ -29,3 +29,6 @@ for i in range(len(emp["Salary"])):
         high_salary_employees.append(emp["ename"][i])
 
 print("Employees with salary greater than ₹25,000:", high_salary_employees)
+
+
+#mani prathap
