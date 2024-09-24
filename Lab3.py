@@ -32,3 +32,4 @@ print("Employees with salary greater than ₹25,000:", high_salary_employees)
 
 
 #mani prathap
+#mani
